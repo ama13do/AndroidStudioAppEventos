@@ -1,0 +1,4 @@
+2024-08-03T14:43:15.479Z P:6608 T:23740] SyncServiceImpl::Initialize,SyncState after the account was authenticated: NotSignedIn
+2024-08-03T14:43:15.844Z P:6608 T:29768] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-08-03T15:39:57.675Z P:22340 T:20444] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureNotRequested
+2024-08-03T15:39:57.967Z P:22340 T:41564] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys

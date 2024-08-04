@@ -1,0 +1,1 @@
+ C:\\Users\\amado\\Downloads\\aplicacion_de_eventos\\aplicacion_de_eventos\\.dart_tool\\flutter_build\\6890f2cd9bc7fcf0002384d98765c05b\\native_assets.yaml: 

@@ -1,8 +1,6 @@
 # Aplicacion de eventos
 
-A new Flutter project.
-
+Proyecto en android studio de creacion de app de eventos
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
 # AndroidStudioAppEventos
